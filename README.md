@@ -1,4 +1,4 @@
-![Screenshot 2023-10-30 180704](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/1dc0b0ae-0054-47b7-8bd2-7597b10ba0ae)# EX01 Developing a Simple Webserver
+# EX01 Developing a Simple Webserver
 ## Date:6/10/2023
 
 ## AIM:
