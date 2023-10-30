@@ -1,4 +1,4 @@
-# EX01 Developing a Simple Webserver
+![Screenshot 2023-10-30 180704](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/1dc0b0ae-0054-47b7-8bd2-7597b10ba0ae)# EX01 Developing a Simple Webserver
 ## Date:6/10/2023
 
 ## AIM:
@@ -80,8 +80,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![Screenshot 2023-10-30 181015](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/78ff1fae-e94b-47de-8f7a-11f5cd03dcd7)
+![Screenshot 2023-10-30 180704](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/b8ad7ebb-3dbb-4051-9eb7-79d7e72f4674)
 
-![Alt text](<Screenshot 2023-10-30 180704.png>)
-![Alt text](<Screenshot 2023-10-30 181015.png>)
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
