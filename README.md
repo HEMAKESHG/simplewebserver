@@ -80,8 +80,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![Screenshot 2023-10-30 181015](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/78ff1fae-e94b-47de-8f7a-11f5cd03dcd7)
-![Screenshot 2023-10-30 180704](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/b8ad7ebb-3dbb-4051-9eb7-79d7e72f4674)
+![image](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/cc568c6b-2057-43d7-a55f-23590bd1e0d3)
+![image](https://github.com/HEMAKESHG/simplewebserver/assets/144870552/eb8d73d7-741a-4fb0-a6cd-9f1975af9b7a)
 
 
 ## RESULT:
